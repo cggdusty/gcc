@@ -1,2 +1,6 @@
-# gcc
-main
+# hello  everyone 
+```python
+print("hello word")
+
+
+```
